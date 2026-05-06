@@ -52,3 +52,8 @@ python init_db.py
 - PostgreSQL 15+
 - psycopg2-binary
 - python-dotenv
+
+## Team
+- **Ilse Jiménez** — Database architecture, ORM models & security design
+- **Sairi Avila** — Backend-frontend integration
+- **David Hernández** — Frontend development
